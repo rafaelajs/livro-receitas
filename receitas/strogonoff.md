@@ -1,4 +1,4 @@
-# Strogonoff de Frango
+# Strogonoff de Frango :chicken:
 
 ### Ingredientes
 
@@ -18,11 +18,7 @@
 
 - 1 lata de creme de leite sem soro
 
-
-
 ### Modo de Preparo
-
-
 
 1. Em uma panela, coloque 3 colheres de sopa de óleo e 1 tablete de caldo de galinha. Espere aquecer para dissolver o tablete.
 
